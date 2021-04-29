@@ -95,7 +95,7 @@ analytics:
 # Site Author
 author:
   name             : "Jay Lee"
-  avatar           : "/assets/images/pawn.PNG"
+  avatar           : "/assets/images/pawn.png"
   bio              : "Full Stack Developer"
   location         : "Seoul, Korea"
   email            :
