@@ -3,6 +3,7 @@ title:  "블로그 계획"
 excerpt: "GitHub github.io 블로그 계획."
 toc: true
 toc_sticky: true
+toc_label: "페이지 주요 목차" # default is "On this page"
 header:
   teaser: /assets/images/pawnj.jpg
 
