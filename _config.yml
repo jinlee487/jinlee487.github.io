@@ -19,8 +19,8 @@ locale                   : "en-US"
 title                    : "JayLeeCodes"
 title_separator          : "-"
 subtitle                 : 이재이 # site tagline that appears below site title in masthead
-name                     : "Jay Lee"
-description              : "Developer blog for porfolios, projects, resume, algorithm, aws and other studys"
+name                     : &name "Jay Lee"  # &name is a YAML anchor which can be *referenced later
+description              : &description "Developer blog for porfolios, projects, resume, algorithm, aws and other studys"
 url                      : "https://jinlee487.github.io"
 baseurl                  : "/"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -94,10 +94,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Jay Lee"
+  name             : *name # *name is a YAML reference pointing to the &anchor earlier
   avatar           : "/assets/images/pawnj.jpg"
   bio              : "Full Stack Developer learning new things everyday :)"
-  location         : "Seoul, Korea"
+  location         : "Seoul, South Korea"
   email            :
   links:
     - label: "Email"
@@ -118,6 +118,9 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
+    - label: "Youtube"
+      icon: "fab fa-fw fa-youtube"
+      url: "https://www.youtube.com/channel/UCIP05RvZ-g_qXadJprt0cvQ"
 
 # Site Footer
 footer:
