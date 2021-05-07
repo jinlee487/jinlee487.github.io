@@ -16,6 +16,6 @@ Please comment or message me about any questions, I am happy to talk :)
 
 I created this blog using the Minimal Mistakes Jekyll theme. 
 Here are the resources I referenced for help. 
-[devinlife's blog](https://devinlife.com/categories/#howto-github-pages)
-[Minimal Mistakes Official Guide](https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/)
-[Short Video Guide](https://youtu.be/ACzFIAOsfpM)
+⋅⋅⋅[devinlife's blog](https://devinlife.com/categories/#howto-github-pages)⋅⋅⋅
+⋅⋅⋅[Minimal Mistakes Official Guide](https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/)⋅⋅⋅
+⋅⋅⋅[Short Video Guide](https://youtu.be/ACzFIAOsfpM)⋅⋅⋅
