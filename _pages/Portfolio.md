@@ -6,7 +6,7 @@ last_modified_at: 2021-05-08T00:36:00-05:00
 
 ---
 
-## jinlee487.github.io 블로그
+## Who is Jay Lee?
 
 Just another *boring*, *nerdy* Full Stack Developer learning something new everyday :)
 
