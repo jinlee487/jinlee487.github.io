@@ -20,7 +20,7 @@ title                    : "JayLeeCodes"
 title_separator          : "-"
 subtitle                 : 이재이 # site tagline that appears below site title in masthead
 name                     : &name "Jay Lee"  # &name is a YAML anchor which can be *referenced later
-description              : &description "Developer blog for porfolios, projects, resume, algorithm, aws and other studys"
+description              : &description "Developer blog for porfolios, projects, resume, algorithm, aws and other studies"
 url                      : "https://jinlee487.github.io"
 baseurl                  : "/"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
