@@ -1,5 +1,5 @@
 ---
-title: "Introducing Jay"
+title: "About Jay"
 permalink: /portfolio/
 layout: single
 ---
