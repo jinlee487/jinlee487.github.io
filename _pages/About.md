@@ -2,12 +2,18 @@
 title: "이 블로그 설명서"
 permalink: /about/
 layout: single
+last_modified_at: 2021-05-08T00:08:00-05:00
+
 ---
 
 ## jinlee487.github.io 블로그
 
-이 블로그는 Github Pages 블로그 서비스인 github.io를 같이 만들어보는 블로그이다.
+Hello. This is my blog where I talk about my journey to becoming a savy IT developer. 
+I will post about porfolios, projects, resume, algorithm, aws and other studys.
+Please comment or message me about any questions, I am happy to talk :) 
 
-샘플 블로그로 사용한 <https://devinlife.com> 를 방문해보자.
-이 곳에서 이 샘플 블로그를 같이 만들어보는 Github Pages 블로그 따라하기 시리즈의
-모든 글을 볼 수 있다.
+I created this blog using the Minimal Mistakes Jekyll theme. 
+Here are the resources I referenced for help. 
+<https://devinlife.com/categories/#howto-github-pages>
+<https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/>
+<https://youtu.be/ACzFIAOsfpM>
