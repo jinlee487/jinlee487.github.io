@@ -8,7 +8,9 @@ last_modified_at: 2021-05-08T00:08:00-05:00
 
 ## jinlee487.github.io 블로그
 
-Hello. This is my blog where I talk about my journey to becoming a savy IT developer. 
+Hello World!
+
+This is my blog where I talk about my journey to becoming a savy IT developer. 
 I will post about porfolios, projects, resume, algorithm, aws and other studys.
 Please comment or message me about any questions, I am happy to talk :) 
 
