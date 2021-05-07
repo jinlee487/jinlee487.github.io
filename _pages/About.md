@@ -1,5 +1,5 @@
 ---
-title: "이 블로그 설명서"
+title: "Introduction"
 permalink: /about/
 layout: single
 last_modified_at: 2021-05-08T00:08:00-05:00
