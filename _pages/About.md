@@ -12,7 +12,7 @@ Hello World!
 
 This is my blog where I talk about my journey to becoming a savy IT developer. 
 I will post about porfolios, projects, resume, algorithm, aws and other studies.
-Please comment or message me about any questions, I am happy to talk :) 
+Please comment or message me with any questions, I am happy to talk :) 
 
 I created this blog using the Minimal Mistakes Jekyll theme. 
 Here are the resources I referenced for help. 
