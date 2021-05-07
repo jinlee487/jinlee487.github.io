@@ -2,6 +2,8 @@
 title: "About Jay"
 permalink: /portfolio/
 layout: single
+last_modified_at: 2021-05-08T00:36:00-05:00
+
 ---
 
 ## jinlee487.github.io 블로그
