@@ -26,5 +26,5 @@ Fourth problem was a dp problem, and I do not remember the last problem.
 
 I only managed to solve 2 out of the 5.
 
-Still, I am proud of my progress and I am certain that I will do better on the next coding test. 
+Still, I am proud of my progress, and I am certain that I will do better on the next coding test. 
 
