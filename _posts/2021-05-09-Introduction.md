@@ -3,7 +3,7 @@ title: "Introduction"
 excerpt: "jinlee487.github.io Blog"
 
 categories:
-  - Announcment
+  - Announcement
 tags:
   - About
 last_modified_at: 2021-05-09T00:14:00-05:00
