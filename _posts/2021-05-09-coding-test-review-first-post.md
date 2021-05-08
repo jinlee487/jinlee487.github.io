@@ -1,13 +1,11 @@
 ---
 title: "KakaoTalk Internship Coding Test & 우아한 형제 Tech Camp Coding Test"
 excerpt: "Who is Jay Lee?"
-
 categories:
   - Coding Test
 tags:
   - review
 last_modified_at: 2021-05-09T01:05:00-05:00
-
 ---
 Finished taking the 우아한 형제 coding test this morning and the KakaoTalk Internship coding test in the afternoon.
 
