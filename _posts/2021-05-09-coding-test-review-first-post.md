@@ -1,6 +1,5 @@
 ---
 title: "KakaoTalk Internship Coding Test & 우아한 형제 Tech Camp Coding Test"
-excerpt: "Who is Jay Lee?"
 categories:
   - Coding Test
 tags:
