@@ -3,7 +3,7 @@ main:
   # - title: "Quick-Start Guide"
   #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "About"
-    url: /announcment/about/
+    url: /announcement/about/
   - title: "Posts"
     url: /year-archive/
   - title: "Categories"
@@ -11,8 +11,8 @@ main:
   - title: "Tags"
     url: /tags/
   - title: "Who"
-    url: /announcment/introduction/
+    url: /announcement/introduction/
   - title: "Terms"
-    url: /announcment/term/
+    url: /announcement/term/
   # - title: "Sitemap"
   #   url: /sitemap/
