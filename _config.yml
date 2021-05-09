@@ -139,7 +139,7 @@ footer:
       url: "https://www.youtube.com/channel/UCIP05RvZ-g_qXadJprt0cvQ"
     - label: "Sitemap"
       icon: "fas fa-sitemap"
-      url: "https://github.com/jinlee487/sitemap/"
+      url: "https://jinlee487.github.io/sitemap/"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
