@@ -5,7 +5,7 @@ main:
   - title: "About"
     url: /announcement/introduction/
   - title: "Collections"
-    url: /collection-archive/
+    url: /collection/
   - title: "Categories"
     url: /categories/
   - title: "Tags"
