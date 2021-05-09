@@ -137,6 +137,9 @@ footer:
     - label: "Youtube"
       icon: "fab fa-fw fa-youtube"
       url: "https://www.youtube.com/channel/UCIP05RvZ-g_qXadJprt0cvQ"
+    - label: "Sitemap"
+      icon: "fab fa-fw fa-sitemap"
+      url: "https://github.com/jinlee487/sitemap/"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
