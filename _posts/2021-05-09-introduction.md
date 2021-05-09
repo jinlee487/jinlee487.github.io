@@ -1,11 +1,10 @@
 ---
 title: "Introduction"
 excerpt: "jinlee487.github.io Blog"
-
-categories:
+collection:
   - Announcement
-tags:
-  - about
+categories:
+  - Notice
 last_modified_at: 2021-05-09T00:14:00Z
 
 ---

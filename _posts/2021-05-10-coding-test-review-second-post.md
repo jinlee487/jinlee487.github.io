@@ -1,9 +1,11 @@
 ---
 title: "Programmers 2021 Summer Coding Test"
-categories:
+collection:
   - Coding Test
+categories:
+  - Review
 tags:
-  - review
+  - programmers
 last_modified_at: 2021-05-10T15:41:00Z
 ---
 Finished taking the Programmers 2021 Summer Coding Test. 
