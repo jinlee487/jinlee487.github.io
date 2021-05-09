@@ -3,9 +3,9 @@ title: "Markup: HTML Tags and Formatting"
 header:
   teaser: "assets/images/pawnj.jpg"
 collection:
-  - Tutorial  
+  - How to make a blog
 categories:
-  - Markup
+  - Tutorial
 tags:
   - css
   - markup
