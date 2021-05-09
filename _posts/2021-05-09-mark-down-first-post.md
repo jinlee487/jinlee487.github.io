@@ -1,7 +1,6 @@
 ---
 title: "Markup: HTML Tags and Formatting"
-header:
-  teaser: "assets/images/pawnj.jpg"
+
 categories:
   - How to make a blog
 tags:
