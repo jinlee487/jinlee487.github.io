@@ -255,9 +255,7 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
-collection_archive:
-  type: liquid
-  path: /collections/
+
 # https://github.com/jekyll/jekyll-archives
 # jekyll-archives:
 #   enabled:
@@ -277,6 +275,21 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
+# Collections
+# collections:
+#   tutorial:
+#     output: true
+#     permalink: /:collection/:path/
+#   recipes:
+#     output: true
+#     permalink: /:collection/:path/
+#   pets:
+#     output: true
+#     permalink: /:collection/:path/
+#   portfolio:
+#     output: true
+#     permalink: /:collection/:path/
 
 
 # Defaults

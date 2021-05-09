@@ -1,9 +1,7 @@
 ---
 title: "KakaoTalk Internship Coding Test & 우아한 형제 Tech Camp Coding Test"
-collection:
-  - Coding Test
 categories:
-  - Review
+  - Coding Test
 tags:
   - kakaoTalk
   - 우아한형제

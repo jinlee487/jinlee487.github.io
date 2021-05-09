@@ -1,10 +1,8 @@
 ---
 title: "Introduction"
 excerpt: "jinlee487.github.io Blog"
-collection:
-  - Announcement
 categories:
-  - Notice
+  - Announcement
 last_modified_at: 2021-05-09T00:14:00Z
 
 ---
