@@ -7,7 +7,7 @@ author_profile: true
 
 
 
-<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent" }}</h3>
+<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent recent" }}</h3>
 
 {% if paginator %}
   {% assign posts = paginator.posts %}
@@ -22,3 +22,4 @@ author_profile: true
   {% endfor %}
 </div>
 
+{% include paginator.html %}
