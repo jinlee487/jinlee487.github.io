@@ -1,6 +1,6 @@
 ---
 layout: archive
 title: "Posts by Collection"
-permalink: /collection/
+permalink: /collections/
 author_profile: true
 ---
