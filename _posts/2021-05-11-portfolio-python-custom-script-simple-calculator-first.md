@@ -1,5 +1,5 @@
 ---
-title: "How to code a python calculator"
+title: "How to code a calculator with Python"
 categories:
   - Projects
 tags:
