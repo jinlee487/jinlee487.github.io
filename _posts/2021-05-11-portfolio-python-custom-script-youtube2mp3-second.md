@@ -47,8 +47,7 @@ This Python script uses Tkinter for the GUI design and pafy to download youtube 
 
 
 Please message me with any feedback, I am happy to listen :)
-
-<img src="https://github.com/jinlee487/youtube2mp3/blob/main/sample.PNG" width="300">
+![](https://github.com/jinlee487/youtube2mp3/blob/main/sample.PNG){: width="300"}
 
 ### 📑 How to Install and Run
 
