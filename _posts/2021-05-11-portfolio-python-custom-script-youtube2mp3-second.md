@@ -22,6 +22,10 @@ TKinter을 이용하여 GUI를 만들어서 유저들이 사용하기 편하도�
 
 프로그램을 사용해 보실 분들은 제 깃에서 2.00 릴리스 버전을 다운받아 사용을 해보세요!
 
+처음 다운 받으시면 안티바이러스 프로그램에 검사 시간이 소요됩니다. 
+
+검사가 끝나면 실행이 가능해 집니다.
+
 Check out my repository here!
 - `git repo` : [https://github.com/jinlee487/youtube2mp3](https://github.com/jinlee487/youtube2mp3)
 
