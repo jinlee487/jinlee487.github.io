@@ -6,7 +6,7 @@ tags:
   - custom scripts
   - python
   - youtube2mp3
-  - TKinter
+  - tkinter
 toc: true
 toc_sticky: true
 last_modified_at: 2021-05-12T19:05:00Z
