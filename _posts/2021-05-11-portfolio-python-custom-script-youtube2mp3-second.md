@@ -37,11 +37,19 @@ custom Youtube video to mp3 converter 2.00
 Hello World! 
 
 I was working on recording videos and needed audio clips from Youtube.
+
 I could use Youtube to mp3 conversion service sites... but I am a programmer. 
+
 So I went ahead and created a simple script to download Youtube audios straight from Youtube.
+
 This Python script uses Tkinter for the GUI design and pafy to download youtube streams.
 
+
+
 Please message me with any feedback, I am happy to listen :)
+
+<img src="https://github.com/jinlee487/youtube2mp3/blob/main/sample.PNG" width="300">
+
 ### 📑 How to Install and Run
 
 1. Download the youtube2mp3 2.00 zip file from the lastest published releases.
