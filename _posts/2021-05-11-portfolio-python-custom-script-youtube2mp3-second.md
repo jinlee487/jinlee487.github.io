@@ -9,7 +9,7 @@ tags:
   - TKinter
 toc: true
 toc_sticky: true
-last_modified_at: 2021-05-11T01:11:00Z
+last_modified_at: 2021-05-12T19:05:00Z
 ---
 
 이전에 만들었던 유튜브 오디오 다운로드 파이썬 스크립트를 더 개발 해보았습니다.
