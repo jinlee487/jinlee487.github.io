@@ -12,7 +12,7 @@ last_modified_at: 2021-05-14T19:40:00Z
 
 Received this email couple days ago. 
 
-This is my first round of coding exam for a major company I managed to pass since I started studying for coding tests. 
+This is my first, first round of coding exam for a major company I managed to pass since I started studying for coding tests. 
 
 I am massively excited and now am busily preparing for the second round exam.
 
