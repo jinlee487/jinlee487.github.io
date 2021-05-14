@@ -20,6 +20,8 @@ I am massively excited and now am busily preparing for the second round exam.
 
 The second round of the coding tests usually consists of real world scenario-based developing coding problems.
 
+- `description of dev coding tests` : [https://freedeveloper.tistory.com/280](https://freedeveloper.tistory.com/280)
+
 I am preparing for the test which is on Saturday by solving the practice problems in programmers.
 
 - `programmers practice problems` : [https://programmers.co.kr/skill_check_assignments](https://programmers.co.kr/skill_check_assignments)
