@@ -13,5 +13,7 @@ last_modified_at: 2021-05-16T20:24:00Z
 
 JayLeeCodes was approved for google Adsense on the first try!
 
-Now I will be able to ad adds to this blog.
+Now I will be able to add ads to this blog.
+
+
 
