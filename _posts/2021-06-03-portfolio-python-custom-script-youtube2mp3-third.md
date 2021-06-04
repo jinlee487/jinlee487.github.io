@@ -16,7 +16,7 @@ last_modified_at: 2021-06-03T23:16:00Z
 
 Hows it going? 
 
-오늘은 이전에 개발해 보았던 youtube downloader gui를 improve한 새버전을 만들어 보았습니다. 
+오늘은 이전에 개발해 보았던 youtube downloader GUI를 improve한 새버전을 만들어 보았습니다. 
 
 2.00 -> 3.00
 
@@ -36,7 +36,7 @@ ffmpeg는 pip으로 다운 못 받고 exe 압축파일을 다운받아 enviromen
 
 하지만 후에 pafy에서 download(remux=audio=True)를 콜할 때마다 계속 winerror2 file not found error가 뜨는군요.
 
-[제이의 pafy 리포 이슈](https://github.com/mps-youtube/pafy/issues/294)
+[재이의 pafy 리포 이슈](https://github.com/mps-youtube/pafy/issues/294)
 
 제가 위 이슈 리포에 계속 리폿을 하면서 문제점을 파악해 보았지만 ... 
 
@@ -64,27 +64,6 @@ Check out my repository here!
 
 
 # youtube2mp3
-custom Youtube video to mp3 converter 2.00
-### 👋 Introduction 
-
-Hello World! 
-
-I was working on recording videos and needed audio clips from Youtube.
-
-I could use Youtube to mp3 conversion service sites... but I am a programmer. 
-
-So I went ahead and created a simple script to download Youtube audios straight from Youtube.
-
-This Python script uses Tkinter for the GUI design and pafy to download youtube streams.
-
-
-
-Please message me with any feedback, I am happy to listen :)
-
-<img src="https://user-images.githubusercontent.com/46912607/120653042-4c1f9a00-c4bb-11eb-9e2e-79c13aebbc20.PNG" alt="sample" style="zoom:60%;" />
-
-
-# youtube2mp3
 custom Youtube video to mp3 converter 3.00
 ### 👋 Introduction 
 
@@ -94,6 +73,8 @@ I was working on recording videos and needed audio clips from Youtube.
 I could use Youtube to mp3 conversion service sites... but I am a programmer. 
 So I went ahead and created a simple script to download Youtube audios straight from Youtube.
 This Python script uses Tkinter for the GUI design and pafy to download youtube streams.
+
+<img src="https://user-images.githubusercontent.com/46912607/120653042-4c1f9a00-c4bb-11eb-9e2e-79c13aebbc20.PNG" alt="sample" style="zoom:60%;" />
 
 Please message me with any feedback, I am happy talk :)
 
