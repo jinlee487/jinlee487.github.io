@@ -8,7 +8,7 @@ toc: true
 toc_sticky: true
 last_modified_at: 2021-06-04T12:20:00Z
 ---
-
+### 👋 achievement
 <img src="https://user-images.githubusercontent.com/46912607/120740744-c3dadc80-c52e-11eb-8020-ca63a15bcf1e.png" alt="sample" style="zoom:60%;" />
 
 코테를 정식 준비 한지 1.5개월이 되었습니다. 4월 중순부터 6월달 첫주 까지 100문제를 풀어네요. 
@@ -17,6 +17,7 @@ last_modified_at: 2021-06-04T12:20:00Z
 200문제 푼것은 다른 컴퓨터 전공자 분들이나 코테 고수분들에 비교한다면 적은 수 이고 저의 랭킹도 실버5 밖에 안되지만
 앞으로 계속 공부 해 나갈 수 있는 동기부여가 되는것 같습니다.
 
+### 👋 how I study
 {% include video id="ukkLCl9yBvE" provider="youtube" %}
 
 저는 동빈나님이 설명해 주신데로 그리디 20, 이분, 깊이, 넓이 탐색 각각 20문제, dp 20문제씩 푸는것을 목표로 하고 풀었습니다. 아직 위 목표를 달성하지는 못했지만 이번 여름안에 목표달성을 할려고 합니다.
