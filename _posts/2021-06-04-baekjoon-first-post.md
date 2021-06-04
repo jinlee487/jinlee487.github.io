@@ -1,5 +1,5 @@
 ---
-title: "백준 문제 200개 풀이 달성!"
+title: "백준 200문제 달성!"
 categories:
   - Algorithm
 tags:
