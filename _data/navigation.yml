@@ -10,8 +10,8 @@ main:
     url: /categories/
   - title: "Tags"
     url: /tags/
-  - title: "Who"
-    url: /announcement/about/
+  - title: "Projects"
+    url: /projects/
   - title: "Terms"
     url: /announcement/term/
   # - title: "Sitemap"
