@@ -277,10 +277,10 @@ compress_html:
     envs: development
 
 # Collections
-collections:
-  projects:
-    output: true
-    permalink: /:collection/:path/
+# collections:
+#   projects:
+#     output: true
+#     permalink: /:collection/:path/
   # recipes:
   #   output: true
   #   permalink: /:collection/:path/
@@ -307,7 +307,7 @@ defaults:
       related: true
   # _projects
   - scope:
-      path: ""
+      path: "_projects"
       type: projects
     values:
       layout: single
