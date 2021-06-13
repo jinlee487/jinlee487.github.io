@@ -2,7 +2,7 @@
 title: "Youtube2mp3"
 excerpt: "Python Application for downloading youtube video as mp3, mp4 file."
 header:
-  image: /assets/images/youtube.png
+#   image: /assets/images/youtube.png
   teaser: assets/images/youtube2mp3.PNG
 sidebar:
   - title: "Role"
