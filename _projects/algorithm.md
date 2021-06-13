@@ -1,5 +1,5 @@
 ---
-title: "algorithm problems"
+title: "Algorithm problems"
 excerpt: "Learning algorithm for coding exams."
 header:
 #   image: /assets/images/youtube.png
