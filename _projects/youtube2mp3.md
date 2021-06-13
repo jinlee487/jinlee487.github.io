@@ -27,5 +27,6 @@ Please message me with any feedback, I am happy talk :)
 Check out my repository here!
 - `git repo` : [https://github.com/jinlee487/youtube2mp3](https://github.com/jinlee487/youtube2mp3)
 
+{% include gallery caption="This is a sample gallery to go along with this case study." %}
 youtube2mp3 tutorial
 - `git repo` : [https://jinlee487.github.io/tags/#youtube2mp3](https://jinlee487.github.io/tags/#youtube2mp3)

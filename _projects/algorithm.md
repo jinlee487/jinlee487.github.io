@@ -17,16 +17,17 @@ gallery:
     alt: "placeholder image 1"
 ---
 
+
 This project is my journey of learning algorithm for coding tests.
 
 I solve algorithm questions mainly from Baekjoon Online Judge. 
 
 I do solve problems from Programmers.
 
-in the future, I plan to solve problems from Code Force.
+In the future, I plan to solve problems from Code Force.
 
 Check out my repository here!
 - `git repo` : [https://github.com/jinlee487/Algorithm](https://github.com/jinlee487/Algorithm)
 
-Baekjoon Online Judge algorithm problems
-- `git repo` : [https://jinlee487.github.io/tags/#baekjoon](https://jinlee487.github.io/tags/#baekjoon)
+
+{% include gallery caption="Baekjoon Online Judge algorithm problem posts." %}
