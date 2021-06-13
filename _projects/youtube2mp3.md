@@ -2,7 +2,7 @@
 title: "Youtube2mp3"
 excerpt: "Python Application for downloading youtube video as mp3, mp4 file."
 header:
-  image: /assets/images/youtube2mp3.PNG
+  image: /assets/images/youtube.png
   teaser: assets/images/youtube2mp3.PNG
 sidebar:
   - title: "Role"
@@ -20,7 +20,7 @@ gallery:
 I was working on recording videos and needed audio clips from Youtube.
 I could use Youtube to mp3 conversion service sites... but I am a programmer. 
 So I went ahead and created a simple script to download Youtube audios straight from Youtube.
-This Python script uses Tkinter for the GUI design and pafy to download youtube streams.
+This Python script uses Tkinter for the GUI design, pytube to download youtube streams and moviepy for mp3 converter.
 
 Please message me with any feedback, I am happy talk :)
 
