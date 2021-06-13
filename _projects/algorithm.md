@@ -29,5 +29,5 @@ In the future, I plan to solve problems from Code Force.
 Check out my repository here!
 - `git repo` : [https://github.com/jinlee487/Algorithm](https://github.com/jinlee487/Algorithm)
 
-
+Check out my posts here!
 {% include gallery caption="Baekjoon Online Judge algorithm problem posts." %}
