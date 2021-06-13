@@ -1,6 +1,6 @@
 ---
-title: "Youtube2mp3"
-excerpt: "Python Application for downloading youtube video as mp3, mp4 file."
+title: "algorithm problems"
+excerpt: "Learning algorithm for coding exams."
 header:
 #   image: /assets/images/youtube.png
   teaser: assets/images/algorithm.png
@@ -17,12 +17,13 @@ gallery:
     alt: "placeholder image 1"
 ---
 
-I was working on recording videos and needed audio clips from Youtube.
-I could use Youtube to mp3 conversion service sites... but I am a programmer. 
-So I went ahead and created a simple script to download Youtube audios straight from Youtube.
-This Python script uses Tkinter for the GUI design, pytube to download youtube streams and moviepy for mp3 converter.
+This project is my journey of learning algorithm for coding tests.
 
-Please message me with any feedback, I am happy talk :)
+I solve algorithm questions mainly from Baekjoon Online Judge. 
+
+I do solve problems from Programmers.
+
+in the future, I plan to solve problems from Code Force.
 
 Check out my repository here!
 - `git repo` : [https://github.com/jinlee487/Algorithm](https://github.com/jinlee487/Algorithm)
