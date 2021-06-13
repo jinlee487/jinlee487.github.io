@@ -13,7 +13,7 @@ sidebar:
     text: "Designed and "
 gallery:
   - url: "https://jinlee487.github.io/tags/#baekjoon"
-    image_path: assets/images/boj-og-1200
+    image_path: assets/images/boj-og-1200.png
     alt: "placeholder image 1"
 ---
 
