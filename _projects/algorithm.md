@@ -3,7 +3,7 @@ title: "Youtube2mp3"
 excerpt: "Python Application for downloading youtube video as mp3, mp4 file."
 header:
 #   image: /assets/images/youtube.png
-  teaser: assets/images/youtube2mp3.PNG
+  teaser: assets/images/algorithm.png
 sidebar:
   - title: "Role"
     image: assets\images\software-developer-copy.jpg
@@ -12,8 +12,8 @@ sidebar:
   - title: "Responsibilities"
     text: "Designed and "
 gallery:
-  - url: /assets/images/youtube2mp3.PNG
-    image_path: assets/images/youtube2mp3.PNG
+  - url: "https://jinlee487.github.io/tags/#baekjoon"
+    image_path: assets/images/boj-og-1200
     alt: "placeholder image 1"
 ---
 
@@ -25,7 +25,7 @@ This Python script uses Tkinter for the GUI design, pytube to download youtube s
 Please message me with any feedback, I am happy talk :)
 
 Check out my repository here!
-- `git repo` : [https://github.com/jinlee487/youtube2mp3](https://github.com/jinlee487/youtube2mp3)
+- `git repo` : [https://github.com/jinlee487/Algorithm](https://github.com/jinlee487/Algorithm)
 
-youtube2mp3 tutorial
-- `git repo` : [https://jinlee487.github.io/tags/#youtube2mp3](https://jinlee487.github.io/tags/#youtube2mp3)
+Baekjoon Online Judge algorithm problems
+- `git repo` : [https://jinlee487.github.io/tags/#baekjoon](https://jinlee487.github.io/tags/#baekjoon)
