@@ -6,7 +6,7 @@ header:
   teaser: assets/images/algorithm.png
 sidebar:
   - title: "Role"
-    image: assets\images\software-developer-copy.jpg
+    image: assets/images/software-developer-copy.jpg
     image_alt: "logo"
     text: "Designer, Full-Stack Developer"
   - title: "Responsibilities"
