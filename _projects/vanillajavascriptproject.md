@@ -9,7 +9,7 @@ sidebar:
     image_alt: "logo"
     text: "Designer, Full-Stack Developer"
   - title: "Responsibilities"
-    text: "Designed and "
+    text: "Designed and Developed"
 ---
 
 

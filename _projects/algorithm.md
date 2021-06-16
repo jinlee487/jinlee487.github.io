@@ -10,7 +10,7 @@ sidebar:
     image_alt: "logo"
     text: "Designer, Full-Stack Developer"
   - title: "Responsibilities"
-    text: "Designed and "
+    text: "Designed and Developed"
 gallery:
   - url: "https://jinlee487.github.io/tags/#baekjoon"
     image_path: assets/images/boj-og-1200.png

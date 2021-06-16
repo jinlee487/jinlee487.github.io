@@ -10,7 +10,7 @@ sidebar:
     image_alt: "logo"
     text: "Designer, Full-Stack Developer"
   - title: "Responsibilities"
-    text: "Designed and "
+    text: "Designed and Developed"
 gallery:
   - url: /assets/images/youtube2mp3.PNG
     image_path: assets/images/youtube2mp3.PNG
