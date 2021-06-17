@@ -2,7 +2,7 @@
 title: "Wisc-Bus"
 excerpt: "CS638 DataScience in Madison"
 header:
-  teaser: assets/images/madison_bus.png
+  teaser: assets/images/madison_bus.jpg
 sidebar:
   - title: "Role"
     image: assets/images/software-developer-copy.jpg
