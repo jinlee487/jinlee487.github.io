@@ -1,5 +1,6 @@
 ---
-title: "First Day at Aiffel Orientation"
+title: "First Day at Aiffel"
+excerpt: "Introduction and Orientation"
 categories:
   - Aiffel
 tags:
