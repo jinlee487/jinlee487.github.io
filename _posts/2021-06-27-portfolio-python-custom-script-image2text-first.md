@@ -17,7 +17,7 @@ last_modified_at: 2021-06-27T21:44:00Z
 Hows it going? 
 
 Check out my repository here!
-- `git repo` : [https://github.com/jinlee487/youtube2mp3](https://github.com/jinlee487/youtube2mp3)
+- `git repo` : [https://github.com/jinlee487/image2text](https://github.com/jinlee487/image2text)
 
 
 # image2text
