@@ -13,8 +13,6 @@ last_modified_at: 2021-06-28T17:06:00Z
 ---
 
 
-Check out my repository here!
-- `git repo` : [(https://github.com/jinlee487/python_exercises/tree/turtle_graphics](https://github.com/jinlee487/python_exercises/tree/turtle_graphics)
 ### 👋 가상환경으로 패키지를 조금 더 유연하게 관리해보자
 
 - 패키지(package) 특정 기능을 위한 여러 함수 또는 클래스를 담고 있는 보따리로서, 라이브러리(library), 모듈(module)과 비슷한 개념 (다만 모듈은 조금 더 작은 개념으로 쓰이기도 함)
