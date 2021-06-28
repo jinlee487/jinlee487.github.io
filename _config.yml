@@ -121,6 +121,9 @@ author:
     - label: "Youtube"
       icon: "fab fa-fw fa-youtube"
       url: "https://www.youtube.com/channel/UCjdMqD5gakcWx2ubJal4BoQ"
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/jinwoolee487/"
 
 # Site Footer
 footer:
@@ -137,6 +140,9 @@ footer:
     - label: "Youtube"
       icon: "fab fa-fw fa-youtube"
       url: "https://www.youtube.com/channel/UCjdMqD5gakcWx2ubJal4BoQ"
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/jinwoolee487/"
     - label: "Sitemap"
       icon: "fas fa-sitemap"
       url: "https://jinlee487.github.io/sitemap/"
@@ -149,6 +155,7 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url:
+
 
 
 # Reading Files
