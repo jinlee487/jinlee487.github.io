@@ -58,6 +58,5 @@ $ conda deactivate
 $ conda env remove -n my_env_name
 ```
 Check out my repository here!
-- `git repo` : [jinlee487 repo](https://github.com/jinlee487/python_exercises/tree/turtle_graphics
-)
+- `git repo` : [jinlee487 repo](https://github.com/jinlee487/python_exercises/tree/turtle_graphics)
 
