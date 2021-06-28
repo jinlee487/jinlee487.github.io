@@ -91,5 +91,16 @@ for i in range(n):
     t.forward(100)
     t.left(360 / n)
 ```
+
+### drawing star from input
+```
+n = 5
+t.shape('turtle')
+for i in range(n):
+    t.forward(100)
+    t.right((360 / n) * 2)
+    t.forward(100)
+    t.left(360 / n)
+```
 Check out my repository here!
 - `git repo` : [(https://github.com/jinlee487/python_exercises/tree/turtle_graphics](https://github.com/jinlee487/python_exercises/tree/turtle_graphics)
