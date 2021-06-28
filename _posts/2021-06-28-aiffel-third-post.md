@@ -57,4 +57,29 @@ for i in range(n):      # n번 반복
     t.right(360 / n)    # 360을 n으로 나누어서 외각을 구함
 t.end_fill()            # 색칠할 영역 끝
 ```
+### drawing a circles 
 
+```
+import turtle as t
+ 
+
+t.circle(120)
+t.clear()
+n = 60    # 원을 60번 그림
+t.speed('fastest')      # 거북이 속도를 가장 빠르게 설정
+for i in range(n):
+    t.circle(120)       # 반지름이 120인 원을 그림
+    t.right(360 / n)    # 오른쪽으로 6도 회전
+
+```
+
+### complex shapes
+```
+t.shape('arrow')    # 화살표 모양 사용
+for i in range(300):    # 300번 반복
+    t.forward(i)        # i만큼 앞으로 이동. 반복할 때마다 선이 길어짐
+    t.right(91)         # 오른쪽으로 91도 회전
+```
+
+Check out my repository here!
+- `git repo` : [(https://github.com/jinlee487/python_exercises/tree/turtle_graphics](https://github.com/jinlee487/python_exercises/tree/turtle_graphics)
