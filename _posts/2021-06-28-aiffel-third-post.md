@@ -73,7 +73,7 @@ for i in range(n):
 
 ```
 
-### complex shapes
+### drawing complex shapes
 ```
 t.shape('arrow')    # 화살표 모양 사용
 for i in range(300):    # 300번 반복
@@ -81,5 +81,15 @@ for i in range(300):    # 300번 반복
     t.right(91)         # 오른쪽으로 91도 회전
 ```
 
+### drawing a star
+```
+n = 5
+t.shape('turtle')
+for i in range(n):
+    t.forward(100)
+    t.right((360 / n) * 2)
+    t.forward(100)
+    t.left(360 / n)
+```
 Check out my repository here!
 - `git repo` : [(https://github.com/jinlee487/python_exercises/tree/turtle_graphics](https://github.com/jinlee487/python_exercises/tree/turtle_graphics)
