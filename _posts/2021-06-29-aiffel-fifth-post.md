@@ -111,3 +111,56 @@ To https://github.com/jeina7/first-repository.git
 브랜치란?
 - 브랜치는 여러 작업을 독립적으로 진행하려고 할 때 필요합니다. 필요에 의해 만들어지는 각각의 브랜치는 다른 브랜치의 영향을 받지 않기 때문에, 여러 작업을 동시에 진행할 수 있습니다.
 
+### 원격 저장소를 로컬로도 가져오기
+
+우리는 이 저장소를 아까 생성했던 workplace가 아닌 다른 디렉토리인 project에 가져와보겠습니다.
+
+```
+$ cd ~
+$ mkdir project
+$ cd project
+$ git clone https://github.com/xxx/first-repository.git
+Cloning into 'first-repository'...
+remote: Enumerating objects: 3, done.
+remote: Counting objects: 100% (3/3), done.
+remote: Total 3 (delta 0), reused 3 (delta 0), pack-reused 0
+Unpacking objects: 100% (3/3), done.
+$ ls
+first-repository
+$ cd first-repository
+$ ls
+README.md
+$ cat README.md
+# first-repository
+```
+
+### 로컬로 가져온 원격 저장소를 수정해서 다시 push 하기
+
+그렇다면 이제 로컬로 가져온 레파지토리 내용을 수정해서 다시 원격으로 전송해 보는 작업을 할 것입니다. 파일에 변화를 주기 위해서 현재 있는 README.md 파일을 한번 수정해 보겠습니다.
+
+```
+$ echo "add new contents" >> README.md
+$ cat README.md
+# first-repository
+add new contents
+$ git status
+On branch master
+Changes not staged for commit:
+    (use "git add <file>..." to update what will be committed)
+    (use "git restore <file>..." to discard changes in working directory)
+    modified:   README.md
+
+no changes added to commit (use "git add" and/or "git commit -a")
+$ git add README.md
+$ git commit -m “new contents”
+[master c82640d] new contents
+    1 file changed, 1 insertion(+)
+$ git push origin main
+Enumerating objects: 5, done.
+Counting objects: 100% (5/5), done.
+Writing objects: 100% (3/3), 276 bytes | 276.00 KiB/s, done.
+Total 3 (delta 0), reused 0 (delta 0)
+To https://github.com/jeina7/first-repository.git
+    438a37c..c82640d  master -> master
+```
+만약 위에 커맨드가 안된다면 git push origin master로 다시 시도해 보세요!
