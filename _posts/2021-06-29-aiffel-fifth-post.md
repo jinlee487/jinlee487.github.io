@@ -164,3 +164,47 @@ To https://github.com/jeina7/first-repository.git
     438a37c..c82640d  master -> master
 ```
 만약 위에 커맨드가 안된다면 git push origin master로 다시 시도해 보세요!
+
+### 로컬 저장소를 원격 저장소의 내용과 같게 업데이트 하기!
+
+다음은 원격 저장소의 README.md 파일이 수정된 것을 처음에 만들었던 workplace 로컬저장소에도 업데이트해주는 것이죠.
+
+```
+$ cd ~/workplace
+$ ls
+README.md
+$ cat README.md
+# first-repository
+```
+
+We can tell that the README.MD file has not been updated
+push 의 반댓말, pull 로 origin 별칭의 원격 저장소를 로컬 저장소로 "당겨올" 수 있습니다.
+
+```
+$ git pull origin main
+remote: Enumerating objects: 5, done.
+remote: Counting objects: 100% (5/5), done.
+remote: Total 3 (delta 0), reused 3 (delta 0), pack-reused 0
+Unpacking objects: 100% (3/3), done.
+From https://github.com/jeina7/first-repository
+    * branch            master     -> FETCH_HEAD
+    438a37c..c82640d  master     -> origin/master
+Updating 438a37c..c82640d
+Fast-forward
+    README.md | 1 +
+    1 file changed, 1 insertion(+)
+$ cat README.md
+# first-repository
+add new contents
+```
+### Summary 
+
+workplace 라는 로컬저장소, 다른 말로는 디렉토리를 만드는 것부터 시작해서, add, commit, push 세 가지의 명령어를 통해 원격 저장소로 전송하는 것까지 진행해 보았습니다.
+
+그림으로 간단히 정리하자면 다음과 같습니다.
+![image](https://user-images.githubusercontent.com/46912607/123724992-42296500-d8c8-11eb-9b3e-4f328164d240.png)
+
+우리는 위의 작업을 모두 혼자서 진행했지만, 사실 다른 개발자들과 협업을 할 때는 다음 이미지와 같이 진행되는 것이죠.
+![image](https://user-images.githubusercontent.com/46912607/123725026-51a8ae00-d8c8-11eb-9908-9e80add60346.png)
+
+Git을 활용한 버전 관리는 앞서 언급했듯 오늘 배운 것보다 훨씬 다양한 명령어, 작업들을 포함하고 있습니다. 다른 사람이 관리하는 메인 레파지토리는 망치지 않으면서, 손님으로써 작업하기 위해 레파지토리를 fork 한다거나, fork 한 레파지토리에서 작업한 것을 다시 메인 레파지토리에 반영하도록 요청하기 위해 pull request 를 보내는 등 다른 기능들은 너무 방대해서 오늘 다 다루지 못했습니다.
