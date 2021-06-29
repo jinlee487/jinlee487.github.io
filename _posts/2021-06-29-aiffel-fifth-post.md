@@ -53,100 +53,61 @@ git init은 workplace라는 디렉토리를 새로운 Git 로컬 저장소로 �
 
 
 
-### Notion (노션) 
+###  README.md 파일 생성하기
 
-<img src="https://user-images.githubusercontent.com/46912607/123721210-c7108080-d8c0-11eb-815a-71b6cdfa699c.png" width="300">
+![image](https://user-images.githubusercontent.com/46912607/123723936-697f3280-d8c6-11eb-87ca-2bee94a0152e.png)
 
-노션은 협업뿐만 아니라 혼자 업무를 진행할 때에도 생산성을 크게 높여줄 수 있는 문서작성 앱입니다.표, 카드보드, 리스트 등의 다양한 포맷을 편리하게 사용할 수 있도록 최적화되어 있으며, 다른 사람과 페이지를 공유하여 함께 작업하거나 진행상황을 확인할 수 있도록 도와줍니다. 위 이미지의 오른쪽 부분에서 볼 수 있듯 다양한 템플릿을 제공합니다. 직관적이면서도 보기 좋은 문서를 편리하게 만들도록 도와주는 앱이라고 할 수 있습니다.
+이렇게 README.md 파일은 레파지토리를 들어갔을 때 그 레파지토리가 담은 오픈소스 코드들에 대해 소개하는 역할을 합니다.
 
+```
+$ cd ~/workplace  # 이전 스텝에서 .git 디렉토리로 들어갔던 경우에만 실행하여 workspace 디렉토리로 다시 돌아와주세요
+$ echo "# first-repository" >> README.md
+$ ls
+README.md
 
+$ cat README.md
+# first-repository
+$ git status
+On branch main
 
+No commits yet
 
-### Trello (트렐로)
+Untracked files:
+    (use "git add <file>..." to include in what will be committed)
+    README.md
 
-<img src="https://user-images.githubusercontent.com/46912607/123721252-ddb6d780-d8c0-11eb-9b10-9814bc6dc147.png" width="300">
+nothing added to commit but untracked files present (use "git add" to track) 
 
-트렐로는 진행되고 있는 작업을 한 눈에 확인하고 관리할 수 있는 To-Do 앱입니다. 이 또한 다른 사람들과 함께 관리할 수 있도록 해주며, 위 이미지처럼 To Do, Doing, Done 등의 각 보드를 자유롭게 만들어 작업 리스트를 편하게 관리할 수 있습니다. 각 보드 안에는 할 일 별로 카드를 만들어 준 후 카드를 원하는 보드로 옮겨 현재 상황을 편리하게 표시할 수 있다는 장점이 있습니다. 트렐로를 적절히 활용하면 현재 해야 할 일의 우선순위와, 진행되고 있는 일들을 최적화하여 관리할 수 있습니다
+$ git add README.md
+$ git commit -m “new readme file”
+[master (root-commit) 438a37c] new readme file 
+    1 file changed, 1 insertion(+)
+    create mode 100644 README.md
 
-
-
-
-
-###  HangOut (행아웃) / Zoom (줌) / Google Meet (구글 밋)
-
-- Hangout 링크 : [https://hangouts.google.com/](https://hangouts.google.com/)
-- Zoom 링크 : [https://zoom.us/](https://zoom.us/)
-- Google Meet 링크 : [https://meet.google.com/](https://meet.google.com/)
-
-행아웃과 줌, 구글 밋은 모두 화상회의를 위한 앱입니다.
-
-
-
-
-### Keywords
-
-- 개발자의 생산성
-- 개발자를 위한 생산성 도구
-- 개발자 협업
-- 개발자 커뮤니케이션
+```
 
 
+### 내 로컬 저장소와 원격 저장소를 연결해 보자!
+
+- [깃허브(Github) 원격저장소(Repository) 생성](https://post.naver.com/viewer/postView.nhn?volumeNo=24623326)
+
+```
+$ cd ~/workplace
+$ git remote add origin https://github.com/xxx/first-repository.git
+```
+origin 은 원격 저장소의 닉네임과 같은 역할을 합니다. 앞으로는 복잡한 https://... 의 주소를 매번 사용하는 것이 아니라, origin 이라는 이름으로 원격 저장소를 지칭할 수 있는 것이죠. 물론 위의 xxx 부분은 본인의 username이 들어가야합니다!
 
 
+```
+$ git config credential.helper store
+$ git push origin main
+Enumerating objects: 3, done.
+Counting objects: 100% (3/3), done.
+Writing objects: 100% (3/3), 230 bytes | 230.00 KiB/s, done.
+Total 3 (delta 0), reused 0 (delta 0)
+To https://github.com/jeina7/first-repository.git
+    * [new branch]      master -> master
+```
+브랜치란?
+- 브랜치는 여러 작업을 독립적으로 진행하려고 할 때 필요합니다. 필요에 의해 만들어지는 각각의 브랜치는 다른 브랜치의 영향을 받지 않기 때문에, 여러 작업을 동시에 진행할 수 있습니다.
 
-## 개발자를 위한 첫 번째 필수 교양 (2) 개발자의 가드닝, 잔디 심기
-
-
-개발자에게 필요한 가장 첫 번째 덕목은 무엇일까요? 많은 의견이 있을 수 있지만, 언제나 빼먹지 않고 이야기되는 것은 바로 협업 능력입니다.
-
-<img src="https://user-images.githubusercontent.com/46912607/123721772-f70c5380-d8c1-11eb-8c72-5ee9f6aa6099.png" width="300">
-
-빽빽한 잔디밭.. 👍
-
-위 이미지는 바로 GitHub이라는 사이트의 활동 기록입니다.
-
-바로 위처럼 나타나는 잔디로 인해, 개발자에게 GitHub은 아주 강력한 버전 관리 호스팅 사이트이면서, 개발자로서 나의 열정을 가장 빠르게 보여줄 수 있는 플랫폼이기도 합니다.
-
-그만큼 개발자 사이에서는 "1일 1커밋하기" 같은 운동이 있기도 합니다. 1일 1커밋을 꾸준히 지속한다면 위와 같이 예쁜 잔디밭을 만들 수 있기 때문에, 저것만으로도 자기 자신이 굉장히 성실한 사람이라는 것을 나타낼 수 있기 때문이죠.
-
-
-
-###  내 코드의 모든 발자취를 기록할 수 있을까? (1) 버전관리와 Git
-
-- 소스 코드의 버전 관리를 도와주는 시스템 중 하나가 바로 Git과 GitHub입니다. 코드의 버전을 관리함과 동시에 다른 사람과 협업하는 것을 편리하게 만들어주는, 개발자에겐 산소와 같은 프로그램이죠. 오늘은 Git과 GitHub을 자세히 알아보고, 그 활용법을 익히며 직접 실습을 해볼 예정입니다.
-
-✒️ Git
-
-개발을 진행하며 작성하는 소스코드가 업데이트 되는 버전을 기록해두고 관리할 수 있는 소스코드 버전 관리 시스템
-
-✒️ GitHub
-
-Git으로 관리하는 프로젝트를 호스팅하고, 시간과 공간의 제약 없이 협업할 수 있는 온라인 서비스
-
-이 두 가지를 조금 더 풀어서 설명하자면 다음과 같이 말할 수 있습니다.
-
-Git이 버전 기록을 저장한다면, GitHub에서는 그 기록을 다른 사람과 함께 공유하며 협업할 수 있다.
-로컬(Local)에서 작업한 내용을 Git이 저장해 두었다면, 그 기록을 온라인 작업공간인 GitHub에 올려 원격(Remote)으로도 작업할 수 있도록 한다.
-
-GitHub은 Git이라는 도구를 더 쉽게 사용하게 해주는 사설 서비스입니다. 사실 GitHub과 같이 웹사이트 기반으로 Git을 관리하는 온라인 서비스는 GitHub 외에도 GitLab 등 다양합니다.
-
-
-
-###  내 코드의 모든 발자취를 기록할 수 있을까? (1) 버전관리와 Git
-
-- 소스 코드의 버전 관리를 도와주는 시스템 중 하나가 바로 Git과 GitHub입니다. 코드의 버전을 관리함과 동시에 다른 사람과 협업하는 것을 편리하게 만들어주는, 개발자에겐 산소와 같은 프로그램이죠. 오늘은 Git과 GitHub을 자세히 알아보고, 그 활용법을 익히며 직접 실습을 해볼 예정입니다.
-
-✒️ Git
-
-개발을 진행하며 작성하는 소스코드가 업데이트 되는 버전을 기록해두고 관리할 수 있는 소스코드 버전 관리 시스템
-
-✒️ GitHub
-
-Git으로 관리하는 프로젝트를 호스팅하고, 시간과 공간의 제약 없이 협업할 수 있는 온라인 서비스
-
-이 두 가지를 조금 더 풀어서 설명하자면 다음과 같이 말할 수 있습니다.
-
-Git이 버전 기록을 저장한다면, GitHub에서는 그 기록을 다른 사람과 함께 공유하며 협업할 수 있다.
-로컬(Local)에서 작업한 내용을 Git이 저장해 두었다면, 그 기록을 온라인 작업공간인 GitHub에 올려 원격(Remote)으로도 작업할 수 있도록 한다.
-
-GitHub은 Git이라는 도구를 더 쉽게 사용하게 해주는 사설 서비스입니다. 사실 GitHub과 같이 웹사이트 기반으로 Git을 관리하는 온라인 서비스는 GitHub 외에도 GitLab 등 다양합니다.
