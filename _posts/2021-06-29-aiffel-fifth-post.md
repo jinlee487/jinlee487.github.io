@@ -4,7 +4,7 @@ excerpt: "Dev Tools"
 categories:
   - Aiffel-LMS
 tags:
-  - virtual environment
+  - github
 toc: True
 toc_sticky: True
 last_modified_at: 2021-06-29T17:06:00Z
