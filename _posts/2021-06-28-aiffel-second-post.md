@@ -2,9 +2,9 @@
 title: "virtual environment day 2"
 excerpt: "conda 가상환경"
 categories:
-  - Aiffel
+  - Aiffel-LMS
 tags:
-  - Aiffel
+  - virtual environment
 toc: True
 toc_sticky: True
 last_modified_at: 2021-06-28T17:06:00Z
