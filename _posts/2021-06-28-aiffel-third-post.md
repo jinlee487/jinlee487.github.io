@@ -2,10 +2,9 @@
 title: "Python Turtle Graphics day 2"
 excerpt: "파이썬 터틀 그래픽스"
 categories:
-  - Aiffel
+  - Aiffel-Python
 tags:
-  - Aiffel
-  - Python
+  - python
 toc: True
 toc_sticky: True
 last_modified_at: 2021-06-28T17:06:00Z
