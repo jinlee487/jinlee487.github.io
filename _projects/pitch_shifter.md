@@ -3,7 +3,7 @@ title: "pitch_shifter"
 excerpt: "Python Application for downloading youtube video as mp3, mp4 file."
 header:
 #   image: /assets/images/youtube.png
-  teaser: assets/images/pitch_shifter.PNG
+  teaser: assets/images/librosa_logo_text.png
 sidebar:
   - title: "Role"
     image: assets/images/software-developer-copy.jpg
