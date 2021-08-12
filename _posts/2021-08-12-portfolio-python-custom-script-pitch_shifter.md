@@ -5,7 +5,7 @@ categories:
 tags:
   - custom scripts
   - python
-  - youtube2mp3
+  - pitch_shifter
   - tkinter
 toc: true
 toc_sticky: true
