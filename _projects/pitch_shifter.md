@@ -13,7 +13,7 @@ sidebar:
     text: "Designed and Developed"
 gallery:
   - url: /assets/images/pitch_shifter.PNG
-    image_path: assets/images/pitch_shifter.PNG
+    image_path: assets/images/librosa_logo_text.png
     alt: "placeholder image 1"
 ---
 
