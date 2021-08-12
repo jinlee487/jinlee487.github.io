@@ -1,5 +1,5 @@
 ---
-title: "How to code pitch shifter 2.00 release"
+title: "How to code pitch shifter 1.00 release"
 categories:
   - Projects
 tags:
