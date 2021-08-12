@@ -12,7 +12,7 @@ sidebar:
   - title: "Responsibilities"
     text: "Designed and Developed"
 gallery:
-  - url: /assets/images/pitch_shifter.PNG
+  - url: https://librosa.org/
     image_path: assets/images/librosa_logo_text.png
     alt: "placeholder image 1"
 ---
