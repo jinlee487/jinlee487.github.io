@@ -139,7 +139,7 @@ footer:
       url: "https://github.com/jinlee487"
     - label: "Youtube"
       icon: "fab fa-fw fa-youtube"
-      url: "https://www.youtube.com/channel/UCjdMqD5gakcWx2ubJal4BoQ"
+      # url: "https://www.youtube.com/channel/UCjdMqD5gakcWx2ubJal4BoQ"
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/jinwoolee487/"
