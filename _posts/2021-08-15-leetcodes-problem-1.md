@@ -61,6 +61,7 @@ class Solution(object):
 ```            
       
 Runtime: 40 ms, faster than 92.58% of Python online submissions for Two Sum.
+
 Memory Usage: 14.4 MB, less than 23.67% of Python online submissions for Two Sum.
 
 I guess I still have to learn how tto use pythonic coding. 
