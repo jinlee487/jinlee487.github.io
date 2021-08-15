@@ -8,10 +8,13 @@ author_profile: true
 #   - /resume
 ---
 
+<br/><br/>
+<br/><br/>
 
 Education
 ======
 * B.S. in Economics, University of Wisconsin-Madison
+
 
 
 Work experience
@@ -34,9 +37,10 @@ Work experience
 
 * 2020: Bootcamp Student, Green Computer Academy
 
-Java Web programming Smart Content 6 month total 940 hours Bootcamp course. Java, JavaScript, SQL, Spring Framework
+    - Java Web programming Smart Content 6 month total 940 hours Bootcamp course. Java, JavaScript, SQL, Spring Framework
 
 * 2019: Data Analyst Intern, Forward Health Group, Inc
+
 
 
 Projects
@@ -57,6 +61,8 @@ Projects
     - Participated in a course project conducting an analysis of the City of Madison’s rapid bus system proposal by quantifying the effectiveness of the new bus route 
 
     - Performed network analysis of the current metro bus system in respect to the proposed rapid bus system to optimize and to reduce redundancy while maintaining service availability of the current bus system
+
+
 
 Certifications
 =====
