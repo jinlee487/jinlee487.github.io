@@ -7,8 +7,6 @@ author_profile: true
 #   - /resume
 ---
 
-{% include base_path %}
-
 Full CV can be found here [PDF](https://edk208.github.io/files/edwardkimCV2020.pdf)
 
 Education
@@ -38,24 +36,6 @@ Work experience
 <!--  * Tenure-Track Assistant Professor of Computer Science and Interactive Multimedia Joint appointment in Computer Science and Interactive Multimedia. Conduct research in the area of Computer Vision, Computer Graphics, Artificial Intelligence, and Game Technology.-->
 
 * 2008-2013: IDEA Lab Research Assistant, Lehigh University
-
-Recent Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Recent Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
 
 Recent Grant Funding
 ======
