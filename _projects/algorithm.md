@@ -30,6 +30,6 @@ Check out my repository here!
 - `git repo` : [https://github.com/jinlee487/Algorithm](https://github.com/jinlee487/Algorithm)
 
 Check out my posts here!
-- `git repo` : [https://jinlee487.github.io/tags/#Algorithm](https://jinlee487.github.io/tags/#Algorithm)
+- `git repo` : [https://jinlee487.github.io/tags/#leetcodes](https://jinlee487.github.io/tags/#leetcodes)
 
 {% include gallery caption="Baekjoon Online Judge algorithm problem posts." %}
