@@ -1,5 +1,7 @@
 ---
-title: "우아한 형제 Tech Camp 2nd Round Coding Test Review"
+title: "Two-Sum Leetcodes problem L1"
+excerpt: "dictionary hash arry problem"
+
 categories:
   - Algorithm
 tags:
