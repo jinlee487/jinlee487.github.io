@@ -7,44 +7,89 @@ author_profile: true
 #   - /resume
 ---
 
-Full CV can be found here [PDF](https://edk208.github.io/files/edwardkimCV2020.pdf)
 
 Education
 ======
-* B.S.E. in Computer Science,  University of Pennsylvania, 2003
-* M.S.E. in Computer Graphics and Game Technology, University of Pennsylvania, 2008
-* Ph.D in Computer Science, Lehigh University, 2013
+* B.S. in Economics, University of Wisconsin-Madison
 
 Work experience
 ======
-* 2019 - Current: Associate Professor of Computer Science, Drexel University
-<!--  * Conduct research in the area of Computer Vision, Neuro-Inspired Machine Learning, Sparse Coding, and Neural Networks. -->
 
-* 2014-2019: Assistant Professor of Computing Sciences, Villanova University
-<!--  * Conduct research in the area of Computer Vision, Machine Learning, Sparse Coding, Computer Graphics, Artificial Intelligence, and Simulation. -->
-  
-* 2018: Visiting Faculty, Naval Research Laboratory 
-<!--  * Visiting Faculty in the Navy Center for Applied Research in AI sponsored by the Office of Naval Research. Conduct research in Artificial Intelligence, Robotics, and Sparse Coding.-->
- 
-* 2018: Visiting Scholar of Computer Science, University of Delaware
-<!--  * Visiting Scholar in the Department of Computer and Information Sciences. Con- ducted research in Multimodal Deep Learning for Accessibility.-->
 
-* 2017: Visiting Faculty Scholar, Los Alamos National Laboratory
-<!--  * Visiting Faculty Program sponsored by the Department of Energy Office of Science. Conduct research in Biologically Inspired Neural Networks.-->
+* 2021 - Current: Bootcamp Student, AIFFEL X SOCAR
 
-* 2012-2014: Assistant Professor of Computer Science, The College of New Jersey
-<!--  * Tenure-Track Assistant Professor of Computer Science and Interactive Multimedia Joint appointment in Computer Science and Interactive Multimedia. Conduct research in the area of Computer Vision, Computer Graphics, Artificial Intelligence, and Game Technology.-->
+    - AI ML developer course 
 
-* 2008-2013: IDEA Lab Research Assistant, Lehigh University
+* 2020-2021: Full Stack Developer, Gentlist
 
-Recent Grant Funding
+    - Full Stack Developer at a fashion IT start up company. 
+
+    - Developed Web version of a CAD tool for Apparelbase Pattern based on Java JavaScript Spring Framework. 
+
+    - Developed Serial Port connector for web to local plotter device based on C++ and Qt. 
+
+    - Developed Gentlist shopping mall website based on GodoMall PHP framework. 
+
+* 2020: Bootcamp Student, Green Computer Academy
+
+Java Web programming Smart Content 6 month total 940 hours Bootcamp course. Java, JavaScript, SQL, Spring Framework
+
+* 2019: Data Analyst Intern, Forward Health Group, Inc
+
+
+Projects
 ======
-* “New Frameworks for Ethical Research Amidst Emerging Digital Technologies, Algorithms, and Privacy Norms.” National Science Foundation, NSF. Co-PI, $45,450 7/26/2021.  
-* “Spartacus-X: Sparse Coding and Extraction of Ultrasound Knowledge for Explainable POCUS AI.” Defense Advanced Research Projects Agency, DARPA. Co-PI, $1,000,000, 5/1/2021.  
-* “The Bias in the Machine.” Drexel University Office of Research & Innovation. PI, $5,000, 8/7/2020.  
-* “COVID-19: Digital Platform for Patient Recruitment, Testing, Prediction.” Bill & Melinda Gates Foundation. Key Personnel, $496,783, 6/26/2020.  
-* “REU Supplement on NSF CAREER Award.” National Science Foundation. PI, $7,900, 9/1/2020.  
-* “Development of an Automated and Scalable Virtual Assistant to Aid in PPE Ad- herence and Clinical Protocols for Healthcare Worker Safety.” MSH-UHN AMO Innovation Fund. Co-PI, $46,962, 4/17/2020.  
-* “CAREER: Sparse Associative Deep Learning using Neural Mimicry in Multi- modal Machine Learning.” National Science Foundation NSF CAREER Award. PI, $494,464, 6/1/2019.  
-* “Hierarchical Sparse Coding for Robustness against Adversarial Attack.” Intel Corporation. PI, $33,566, 9/1/2018.  
- Awards  
+
+* Gentlist Shopping Mall, Lead developer, January 2021 - March 2021
+
+    - Developed Gentlist shopping mall website based on GodoMall PHP framework.  
+
+* Green Academy Coding Boot Camp Final Project: Health and Workout web Application, Team Lead, June 2020 – September 2020
+
+    - Participated in a course project developing a health and exercise management web application by using Java and Spring MVC Framework 
+    
+    - Developed a social media page where users can post, share and comment about their workout results visualized in different graphs and charts through JavaScript Google Charts API
+
+* City of Madison Budget Analysis, Group member, January 2019 – December 2019
+
+    - Participated in a course project conducting an analysis of the City of Madison’s rapid bus system proposal by quantifying the effectiveness of the new bus route 
+
+    - Performed network analysis of the current metro bus system in respect to the proposed rapid bus system to optimize and to reduce redundancy while maintaining service availability of the current bus system
+
+Certifications
+=====
+
+* LINUX MASTER (리눅스마스터 2급), Korean Association for ICT Promotion
+
+    - Issued July 2020, Expires Oct 2022
+
+    - Credential ID LMS-2102-001425
+
+* Advanced Data Analytics Semi-Professional (데이터 분석 준전문가), Korea Data Agency
+
+    - Issued June 2021, No Expiration Date
+
+    - Credential ID ADsP-029000785
+
+* Amazon Web Services Cloud Practitioner, Amazon Web Services (AWS)
+
+    - Issued May 2021, No Expiration Date
+
+    - Credential ID 32HKMCJDCJF41NCF
+
+* Engineer Information Processing (정보처리기사), Human Resources Development Service of Korea
+
+    - Issued Nov 2020, No Expiration Date
+
+    - Credential ID 20203220077H
+
+* SQL Developer (SQL 개발자), Korea Data Agency
+
+    - Issued Oct 2020, Expires Oct 2022
+
+    - Credential ID SQLD-0381962
+
+
+
+
+
