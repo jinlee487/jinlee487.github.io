@@ -2,7 +2,7 @@
 title: "First Day at Aiffel"
 excerpt: "Introduction and Orientation"
 categories:
-  - Aiffel
+  - Announcement
 tags:
   - Aiffel
 toc: false
