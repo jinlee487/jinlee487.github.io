@@ -5,7 +5,7 @@ categories:
 tags:
   - custom scripts
   - python
-  - pitch_shifter
+  - pitch-shifter
   - tkinter
 toc: true
 toc_sticky: true

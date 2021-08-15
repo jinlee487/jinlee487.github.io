@@ -28,5 +28,5 @@ Check out my repository here!
 - `git repo` : [https://github.com/jinlee487/pitch_shifter](https://github.com/jinlee487/pitch_shifter)
 
 pitch_shifter tutorial
-- `git repo` : [https://jinlee487.github.io/tags/#pitch_shifter](https://jinlee487.github.io/tags/#pitch_shifter)
+- `git repo` : [https://jinlee487.github.io/tags/#pitch_shifter](https://jinlee487.github.io/tags/#pitch-shifter)
 {% include gallery caption="This is a sample gallery to go along with this case study." %}
