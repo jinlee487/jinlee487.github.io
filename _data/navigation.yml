@@ -12,6 +12,8 @@ main:
     url: /tags/
   - title: "Projects"
     url: /projects/
+  - title: "Resume"
+    url: /resume/
   - title: "Terms"
     url: /announcement/term/
   # - title: "Sitemap"
