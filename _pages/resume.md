@@ -1,6 +1,7 @@
 ---
-title: "resume"
+title: "Resume"
 layout: archive
+classes: wide
 permalink: /resume/
 author_profile: true
 # redirect_from:
@@ -11,6 +12,7 @@ author_profile: true
 Education
 ======
 * B.S. in Economics, University of Wisconsin-Madison
+
 
 Work experience
 ======
@@ -62,31 +64,26 @@ Certifications
 * LINUX MASTER (리눅스마스터 2급), Korean Association for ICT Promotion
 
     - Issued July 2020, Expires Oct 2022
-
     - Credential ID LMS-2102-001425
 
 * Advanced Data Analytics Semi-Professional (데이터 분석 준전문가), Korea Data Agency
 
     - Issued June 2021, No Expiration Date
-
     - Credential ID ADsP-029000785
 
 * Amazon Web Services Cloud Practitioner, Amazon Web Services (AWS)
 
     - Issued May 2021, No Expiration Date
-
     - Credential ID 32HKMCJDCJF41NCF
 
 * Engineer Information Processing (정보처리기사), Human Resources Development Service of Korea
 
     - Issued Nov 2020, No Expiration Date
-
     - Credential ID 20203220077H
 
 * SQL Developer (SQL 개발자), Korea Data Agency
 
     - Issued Oct 2020, Expires Oct 2022
-
     - Credential ID SQLD-0381962
 
 
