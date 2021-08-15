@@ -35,7 +35,7 @@ class Solution(object):
                 d[k].append(a)
 ```
 
-I solve the problem using a dictionary. I set the keys as the values in the list. 
+I solved the problem using a dictionary. I set the keys as the values in the list. 
 
 Then I appended index of the values in the list into the list in the key of the dictionary.
 
