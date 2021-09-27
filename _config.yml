@@ -336,7 +336,7 @@ defaults:
       path: ""
       type: frontend
     values:
-      layout: raw-page
+      layout: single
       author_profile: false
       share: false
       comment: false
