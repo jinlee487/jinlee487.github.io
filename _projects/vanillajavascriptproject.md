@@ -1,11 +1,7 @@
 ---
 title: "Vanilla JavaScript Projects"
 excerpt: "Learning front end."
-layout: collection
-permalink: /frontend/
-collection: frontend
-entries_layout: grid
-classes: wide
+collection: "frontend"
 header:
   teaser: assets/images/javascript.png
 sidebar:
@@ -23,4 +19,8 @@ Check out my repos
 
 This project is my journey practing vanilla Javascript.
 
+{% assign entries_layout = page.entries_layout | default: 'list' %}
+<div class="entries-{{ entries_layout }}">
+  {% include documents-collection.html collection=page.collection sort_by=page.sort_by sort_order=page.sort_order type=entries_layout %}
+</div>
 
