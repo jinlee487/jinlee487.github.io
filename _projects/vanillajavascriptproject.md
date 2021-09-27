@@ -15,6 +15,9 @@ sidebar:
 
 This project is my journey practing vanilla Javascript.
 
+- `git repo` : [meal-search-api-vanilla](https://github.com/jinlee487/frontend/mealSearchApiVanilla)
+
+
 Check out my repos
 
 - `git repo` : [https://github.com/jinlee487/meal-search-api-vanilla-js-master](https://github.com/jinlee487/meal-search-api-vanilla-js-master)
