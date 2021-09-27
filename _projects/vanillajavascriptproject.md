@@ -2,6 +2,7 @@
 title: "Vanilla JavaScript Projects"
 excerpt: "Learning front end."
 layout: collection
+permalink: /frontend/
 collection: frontend
 entries_layout: grid
 classes: wide
