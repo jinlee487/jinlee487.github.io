@@ -1,6 +1,10 @@
 ---
 title: "Vanilla JavaScript Projects"
 excerpt: "Learning front end."
+layout: collection
+collection: frontend
+entries_layout: grid
+classes: wide
 header:
   teaser: assets/images/javascript.png
 sidebar:
@@ -12,14 +16,10 @@ sidebar:
     text: "Designed and Developed"
 ---
 
-
-This project is my journey practing vanilla Javascript.
-
-- `git repo` : [meal-search-api-vanilla](https://jinlee487.github.io/frontend/mealSearchApiVanilla)
-
-
 Check out my repos
 
 - `git repo` : [https://github.com/jinlee487/meal-search-api-vanilla-js-master](https://github.com/jinlee487/meal-search-api-vanilla-js-master)
+
+This project is my journey practing vanilla Javascript.
 
 
