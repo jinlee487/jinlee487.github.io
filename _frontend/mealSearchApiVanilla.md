@@ -12,7 +12,7 @@ layout: raw-page
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Find Meal For Your Ingredients</title>
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css" integrity="sha512-+4zCK9k+qNFUR5X+cKL9EIR+ZOhtIloNl9GIKS57V1MyNsYpYcUrUeQc9vNfzsWfV28IaLL3i96P9sdNyeRssA==" crossorigin="anonymous" />
-  <link rel = "stylesheet" href = "../assets/mealSearchApiVanilla/style.css">
+  <link rel = "stylesheet" href = "/assets/mealSearchApiVanilla/style.css">
 </head>
 <body>
   
@@ -38,7 +38,7 @@ layout: raw-page
             <!-- meal item -->
             <!-- <div class = "meal-item">
                 <div class = "meal-img">
-                    <img src = "../assets/mealSearchApiVanilla/food.jpg" alt = "food">
+                    <img src = "/assets/mealSearchApiVanilla/food.jpg" alt = "food">
                 </div>
                 <div class = "meal-name">
                     <h3>Potato Chips</h3>
@@ -66,7 +66,7 @@ layout: raw-page
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet aliquam voluptatibus ad obcaecati magnam, esse numquam nisi ut adipisci in?</p>
             </div>
             <div class = "recipe-meal-img">
-                <img src = "../assets/mealSearchApiVanilla/food.jpg" alt = "">
+                <img src = "/assets/mealSearchApiVanilla/food.jpg" alt = "">
             </div>
             <div class = "recipe-link">
                 <a href = "#" target = "_blank">Watch Video</a>
@@ -78,7 +78,7 @@ layout: raw-page
 
 
 
-  <script src = "../assets/mealSearchApiVanilla/script.js"></script>
+  <script src = "/assets/mealSearchApiVanilla/script.js"></script>
 </body>
 </html>
 
