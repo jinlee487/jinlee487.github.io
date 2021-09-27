@@ -338,5 +338,4 @@ defaults:
     values:
       layout: single
       author_profile: false
-      share: false
-      comment: false
+      share: true
