@@ -19,8 +19,9 @@ Education
 Work experience
 ======
 
+* 2021 - Current: MS in Computer Science, Drexel University
 
-* 2021 - Current: Bootcamp Student, AIFFEL X SOCAR
+* 2021 - Bootcamp Student, AIFFEL X SOCAR
 
     - AI ML developer course 
 
