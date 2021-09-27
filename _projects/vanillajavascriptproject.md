@@ -1,7 +1,6 @@
 ---
 title: "Vanilla JavaScript Projects"
 excerpt: "Learning front end."
-collection: "frontend"
 header:
   teaser: assets/images/javascript.png
 sidebar:
@@ -21,6 +20,6 @@ This project is my journey practing vanilla Javascript.
 
 {% assign entries_layout = page.entries_layout | default: 'list' %}
 <div class="entries-{{ entries_layout }}">
-  {% include documents-collection.html collection=page.collection sort_by=page.sort_by sort_order=page.sort_order type=entries_layout %}
+  {% include documents-collection.html collection="frontend" sort_by=page.sort_by sort_order=page.sort_order type=entries_layout %}
 </div>
 
