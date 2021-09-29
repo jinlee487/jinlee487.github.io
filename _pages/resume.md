@@ -12,20 +12,23 @@ author_profile: true
 
 Education
 ======
-* B.S. in Economics, University of Wisconsin-Madison
+
+* M.S. in Computer Science, Drexel University, 2021
+
+* Bootcamp Student, AIFFEL X SOCAR, 2021
+    - AI ML developer course 
+
+* Bootcamp Student, Green Computer Academy, 2020
+    - Java Web programming Smart Content 6 month total 940 hours Bootcamp course. Java, JavaScript, SQL, Spring Framework
+
+* B.S. in Economics, University of Wisconsin-Madison, 2018
 
 
 
 Work experience
 ======
 
-* 2021 - Current: MS in Computer Science, Drexel University
-
-* 2021 - Bootcamp Student, AIFFEL X SOCAR
-
-    - AI ML developer course 
-
-* 2020-2021: Full Stack Developer, Gentlist
+* Full Stack Developer, Gentlist, 2020-2021
 
     - Full Stack Developer at a fashion IT start up company. 
 
@@ -35,11 +38,7 @@ Work experience
 
     - Developed Gentlist shopping mall website based on GodoMall PHP framework. 
 
-* 2020: Bootcamp Student, Green Computer Academy
-
-    - Java Web programming Smart Content 6 month total 940 hours Bootcamp course. Java, JavaScript, SQL, Spring Framework
-
-* 2019: Data Analyst Intern, Forward Health Group, Inc
+* Data Analyst Intern, Forward Health Group, Inc, 2019
 
 
 
@@ -77,7 +76,7 @@ Certifications
     - Issued June 2021, No Expiration Date
     - Credential ID ADsP-029000785
 
-* Amazon Web Services Cloud Practitioner, Amazon Web Services (AWS)
+* Amazon Web Services Certified Cloud Practitioner, Amazon Web Services (AWS)
 
     - Issued May 2021, No Expiration Date
     - Credential ID 32HKMCJDCJF41NCF
