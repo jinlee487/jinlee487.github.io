@@ -68,7 +68,7 @@ Certifications
 
 * LINUX MASTER (리눅스마스터 2급), Korean Association for ICT Promotion
 
-    - Issued July 2020, Expires Oct 2022
+    - Issued July 2021, Expires Oct 2022
     - Credential ID LMS-2102-001425
 
 * Advanced Data Analytics Semi-Professional (데이터 분석 준전문가), Korea Data Agency
