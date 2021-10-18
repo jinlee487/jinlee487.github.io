@@ -12,11 +12,7 @@ sidebar:
     text: "Designed and Developed"
 ---
 
-Check out my repos
-
-- `git repo` : [https://github.com/jinlee487/meal-search-api-vanilla-js-master](https://github.com/jinlee487/meal-search-api-vanilla-js-master)
-
-This project is my journey practing vanilla Javascript.
+These are my mini vanilla Javascript projects.
 
 {% assign entries_layout = page.entries_layout | default: 'list' %}
 <div class="entries-{{ entries_layout }}">
