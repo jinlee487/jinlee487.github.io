@@ -13,7 +13,7 @@ author_profile: true
 Education
 ======
 
-* M.S. in Computer Science, Drexel University, 2021
+* M.S. in Computer Science, Drexel University, 2021 - current
 
 * Bootcamp Student, AIFFEL X SOCAR, 2021
     - AI ML developer course 
