@@ -128,7 +128,7 @@ function printNotes(){
     let divContents = noteListDiv.innerHTML;
     const a = window.open('', '', 'height=500, width=500');
     a.document.write('<html>');
-    a.document.write('<link rel="stylesheet" href="style.css" type="text/css" />')
+    a.document.write('<link rel="stylesheet" href="/assets/note-taking-app-vanilla-js/style.css" type="text/css" />')
     a.document.write('<body class="print">');
     a.document.write(divContents);
     a.document.write('</body></html>');
