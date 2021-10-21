@@ -18,7 +18,7 @@ layout: raw-page
   <header>
     <nav class = "navbar">
       <div class = "container">
-        <a href = "https://jinlee487.github.io/frontend/simple-blog/" class = "navbar-brand">Jay.Unsplash</a>
+        <a href = "https://jinlee487.github.io/frontend/unsplash-simple-blog/" class = "navbar-brand">Jay.Unsplash</a>
         <div class = "navbar-nav">
           <a href = "https://jinlee487.github.io/">home</a>
           <a href = "#about">about</a>
