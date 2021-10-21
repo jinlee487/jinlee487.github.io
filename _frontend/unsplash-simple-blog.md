@@ -1,5 +1,5 @@
 ---
-title: "Unsplash blog"
+title: "Unsplash Simple Blog"
 excerpt: "vanilla javascript"
 layout: raw-page
 ---
