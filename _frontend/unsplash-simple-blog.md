@@ -91,7 +91,7 @@ layout: raw-page
             <h2>Jay Lee</h2>
             <p>Software Development is my passion</p>
           </div>
-          <p>I am a passionate software developer looking for new job opportunities! This is my personaly vanilla javascript project.</p>
+          <p>I am a passionate software developer looking for new job opportunities! This is my personal vanilla javascript project.</p>
           <p>The purpose of this project is to practice vanilla javascript, CSS and HTML. Unsplash has many stock photos available for developers to use. The search API allows users to search for images much easier.</p>
         </div>
       </div>
