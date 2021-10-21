@@ -42,7 +42,7 @@ function loadImg(e,query = 'random') {
             for (let i = 0; i < 9; i++) {
                 const design_item = `<div class = "design-item">
                                         <div class = "design-img">
-                                            <img src = "${data[i+1].urls.regular}" imageId = "${data[i+1].id}" alt = "assets/unsplash-simple-blog/images/art-design-1.jpg">
+                                            <img src = "${data[i+1].urls.regular}" imageId = "${data[i+1].id}" alt = "/assets/unsplash-simple-blog/images/art-design-1.jpg">
                                             <span><i class = "far fa-heart"></i>${data[i+1].likes}</span>
                                             <span>Unsplash</span>
                                         </div>
@@ -81,7 +81,7 @@ function unsplashModal(designItem){
     }
     const html = `
         <div class = "image-img">
-            <img src = "${designItem.urls.full}" alt = "assets/unsplash-simple-blog/images/art-design-1.jpg">
+            <img src = "${designItem.urls.full}" alt = "/assets/unsplash-simple-blog/images/art-design-1.jpg">
             <span><i class = "far fa-heart"></i>${designItem.likes}</span>
             <span>Unsplash</span>
         </div>

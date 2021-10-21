@@ -84,7 +84,7 @@ layout: raw-page
     <div class = "container">
       <div class = "about-content">
         <div>
-          <img src = "assets/unsplash-simple-blog/images/about-me-bg.jpg" alt = "assets/unsplash-simple-blog/images/about-me-bg.jpg">
+          <img src = "/assets/unsplash-simple-blog/images/about-me-bg.jpg" alt = "/assets/unsplash-simple-blog/images/about-me-bg.jpg">
         </div>
         <div class = "about-text">
           <div class = "title">
@@ -111,6 +111,6 @@ layout: raw-page
     <span>Jay.Unsplash Blog Page</span>
   </footer>
   <!-- end of footer -->
-  <script src="assets/unsplash-simple-blog/script.js"></script> 
+  <script src="/assets/unsplash-simple-blog/script.js"></script> 
 </body>
 </html>
