@@ -11,6 +11,6 @@ function loadImg(e) {
         .then(data => {
             document.getElementsByClassName("left-banner")[0].style.backgroundImage = 'url("' + data.urls.full + '")';
         }).catch((error) => {
-            document.getElementsByClassName("left-banner")[0].style.backgroundImage = 'url("images/banner.jpg")';
+            document.getElementsByClassName("left-banner")[0].style.backgroundImage = 'url("/assets/responsive-hero-banner/images/banner.jpg")';
       });
 }
