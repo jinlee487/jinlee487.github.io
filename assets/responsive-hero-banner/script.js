@@ -10,5 +10,7 @@ function loadImg(e) {
         })
         .then(data => {
             document.getElementsByClassName("left-banner")[0].style.backgroundImage = 'url("' + data.urls.full + '")';
-    });
+        }).catch((error) => {
+            document.getElementsByClassName("left-banner")[0].style.backgroundImage = 'url("images/banner.jpg")';
+      });
 }
