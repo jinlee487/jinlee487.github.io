@@ -1,0 +1,183 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+body{
+    font-family: 'Raleway',sans-serif;
+    line-height: 1.7;
+}
+.header-container{
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+    min-height: 100vh;
+    color: #fff;
+    grid-gap: 10px;
+}
+.left-banner{
+    background: linear-gradient(to bottom, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.2));
+    background-image: url("images/banner.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding-left: 100px;
+    display: flex;
+    align-items: center;
+}
+.right-banner{
+    background: #20201f;
+}
+
+
+/********************/
+
+
+.left-banner p{
+    border-bottom: 3px solid #20201f;
+    width: 105px;
+    font-weight: 700;
+    padding-bottom: 5px;
+    margin: 15px 0;
+}
+
+.left-banner h2{
+    font-size: 3.7rem;
+    line-height: 1.2;
+    padding: 25px 0;
+    font-weight: 500;
+}
+
+.left-banner button{
+    border: 1.5px solid #fff;
+    font-size: 14px;
+    color: #fff;
+    background: transparent;
+    border-radius: 30px;
+    padding: 15px 25px;
+    text-transform: uppercase;
+    margin: 20px 0;
+    transition: all 1s ease;
+}
+
+.left-banner button:hover{
+    background: #fff;
+    color: #20201f;
+    border-color: #20201f;
+}
+
+.right-banner{
+    padding: 50px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.logo-alphabet{
+    display: flex;
+    border: 5px solid #fff;
+    justify-content: center;
+    align-items: center;
+    width: 180px;
+    height: 180px;
+    border-radius: 50%;
+}
+
+.logo-alphabet span{
+    font-size: 8rem;
+    font-weight: 700;
+}
+
+.logo-text h1{
+    font-size: 2.6rem;
+    text-transform: uppercase;
+    padding: 15px 0 0;
+}
+
+.logo-text p{
+    text-transform: uppercase;
+    line-height: 0.5;
+    padding-bottom: 20px;
+}
+
+.logo-text{
+    border-bottom: 5px solid #fff;
+    width: 100%;
+    padding-bottom: 20px;
+}
+
+.right-banner p{
+    padding: 30px 0;
+    font-size: 16px;
+}
+
+.social-links ul li{
+    display: inline-block;
+    margin: 10px;
+}
+
+.social-links ul li a i{
+    font-size: 1.6rem;
+    color: #f1f1f1;
+}
+
+.social-links ul li a i:hover{
+    color: #9c9595;
+}
+
+button, .social-links{
+    cursor: pointer;
+}
+/* media queries */
+
+@media(max-width: 1170px){
+    .header-container{
+        grid-template-columns: 1fr;
+    }
+    .left-banner,
+    .right-banner{
+        height: 100vh;
+    }
+}
+
+@media(max-width: 500px){
+    .left-banner{
+        padding-left: 0;
+    }
+    .left-banner-container{
+        text-align: center;
+        margin: 0 auto;
+    }
+
+    .left-banner-container p{
+        margin: 0 auto;
+    }
+    .left-banner-container h2{
+        font-size: 2.2rem;
+    }
+    .logo-alphabet{
+        width: 80px;
+        height: 80px;
+    }
+
+    .logo-alphabet span{
+        font-size: 4rem;
+    }
+
+    .logo-text h1{
+        font-size: 1.3rem;
+    }
+
+    .logo-text{
+        padding-bottom: 5px;
+        border-bottom: 2px solid #fff;
+    }
+    .right-banner p{
+        font-size: 14px;
+    }
+
+    .social-links ul li{
+        margin: 5px;
+    }
+}
