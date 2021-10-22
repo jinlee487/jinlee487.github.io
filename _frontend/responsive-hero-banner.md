@@ -51,7 +51,7 @@ layout: raw-page
                                     <i class = "fab fa-linkedin"></i>
                                 </a>
                             </li>
-                                <li>
+                            <li>
                                 <a href="https://jinlee487.github.io/projects/vanilla-javascript-project/">
                                     <i class="fab fa-blogger"></i>
                                 </a>
