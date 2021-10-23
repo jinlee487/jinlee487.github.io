@@ -21,7 +21,7 @@ layout: raw-page
       <!-- navbar -->
       <nav class = "navbar">
         <div class = "nav-top">
-          <a href = "index.html" class = "navbar-brand">
+          <a href = "https://jinlee487.github.io/projects/vanilla-javascript-project/" class = "navbar-brand">
             JayLee<span>Codes</span>
           </a>
           <button type = "button" class = "navbar-toggler">
