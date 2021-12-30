@@ -1,5 +1,5 @@
 ---
-title: "move-zeroes leetcode problem L1200"
+title: "move-zeroes leetcode problem L283"
 excerpt: "String Array problem"
 
 categories:
@@ -13,7 +13,7 @@ last_modified_at: 2021-12-30T16:00:00Z
 
 # 3sum problem 
 
-[3sum leetcode](https://leetcode.com/problems/move-zeroes/submissions/)
+[3sum leetcode](https://leetcode.com/problems/move-zeroes/)
 
 ## solution
 ```
