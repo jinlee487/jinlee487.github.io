@@ -5,7 +5,7 @@ excerpt: "String Array problem"
 categories:
   - Algorithm
 tags:
-  - algoexpert
+  - leetcodes
 toc: true
 toc_sticky: true
 last_modified_at: 2021-12-28T16:00:00Z
