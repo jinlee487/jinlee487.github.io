@@ -11,9 +11,9 @@ toc_sticky: true
 last_modified_at: 2022-01-01T16:00:00Z
 ---
 
-# 3sum problem 
+# Spiral Matrix problem 
 
-[3sum leetcode](https://leetcode.com/problems/spiral-matrix/)
+[Spiral Matrix leetcode](https://leetcode.com/problems/spiral-matrix/)
 
 ## solution
 ```
