@@ -1,5 +1,5 @@
 ---
-title: "54. Spiral Matrix"
+title: "L54 Spiral Matrix"
 excerpt: "String Array problem"
 
 categories:

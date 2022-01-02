@@ -1,5 +1,5 @@
 ---
-title: "845. Longest Mountain in Array"
+title: "L845 Longest Mountain in Array"
 excerpt: "String Array problem"
 
 categories:
