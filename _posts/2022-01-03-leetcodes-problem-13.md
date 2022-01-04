@@ -58,4 +58,5 @@ class Solution {
 }
 ```
 We can improve the method by learning the pattern of the output. The final values always follows a pattern. If there are more than 2 zeros, then the values will all be 0. If there is only 1 zero, then only the index with 0 value will be a non zero value. 
+We can improve the method by learning the pattern of the output. The final values always follows a pattern. If there are more than 2 zeros, then the values will all be 0. If there is only 1 zero, then only the index with 0 value will be a non zero value. 
 O(n) time | O(1) space
