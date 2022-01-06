@@ -57,3 +57,4 @@ For this problem, the naive solution would be to simply sort the array and itera
 
 To improve on the naive solution, we can use a HashMap to count the occurance of the values and add to the count when we look to the right and left of the value to find the consecutive range. If the value is returning 0 count, we know that this particular range has already been counted and we can iterate to the next index value. 
 This solution has a complexity of O(n) time | O(n) space
+
