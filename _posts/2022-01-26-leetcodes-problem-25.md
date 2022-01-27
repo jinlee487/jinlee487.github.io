@@ -67,7 +67,7 @@ This means that the rest of the values in bigger can be added to left.
 
 4. next smaller value is smaller than bigger. We can move smaller value to the next smaller node. 
 
-This would have a complexity of O(n) time | O(m) where n is the shorter of the two inputs and m is the longer of the two inputs. 
+This would have a complexity of O(n) time and O(m) space where n is the shorter of the two inputs and m is the longer of the two inputs. 
 
 
 
