@@ -12,7 +12,7 @@ sidebar:
   - title: "Responsibilities"
     text: "Designed and Developed"
 gallery:
-  - url: assets\images\1a8cc008-30d4-4d53-9909-a86b036d476d.png
+  - url: assets/images/1a8cc008-30d4-4d53-9909-a86b036d476d.png
     image_path: https://sorting-visualizer-jayleecodes.vercel.app/
     alt: "placeholder image 1"
 ---
