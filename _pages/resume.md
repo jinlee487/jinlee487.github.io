@@ -27,6 +27,7 @@ Education
 
 Work experience
 ======
+* Teaching Assistant, Drexel College of Computer and Informatics, 2022 - current
 
 * Full Stack Developer, Gentlist, 2020-2021
 
