@@ -35,7 +35,7 @@ layout: raw-page
                         <span>J</span>
                     </div>
                     <div class = "logo-text">
-                        <h1>JayLeeCodes</h1>
+                        <h1>JayLeeCode</h1>
                         <p>Passionate Software Engineer</p>
                     </div>
                     <p>Responsive websites with left and right banner with HTML and CSS. Project purpose is to practice vanilla frontend developement. Come and explore my blog and other projects!</p>
