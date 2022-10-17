@@ -27,7 +27,22 @@ Education
 
 Work experience
 ======
-* Teaching Assistant, Drexel College of Computer and Informatics, 2022 - current
+* Full-Stack Software Engineer, Lula, 2022
+
+    - Improved web and mobile client-side delivery platform application built from react ionic library which services 400+ merchants 
+
+    - Developed inhouse enterprise resource planning application built from react bootstrap library which provides resource management and live analytics tool for 400,000+ merchandises, 600+ stores and 20,000+ orders up to present
+
+    - Automated application production and staging deployment for python lambda script application
+
+    - Collaborated with the development team from Grubhub for integrating Grubhub API to application
+
+    - Debugged 99+ bug tickets reported by operations and customer support 
+    
+    - Contributed to 500+ git commit, code review, and pull requests in the Lula Engineering Team
+
+
+* Teaching Assistant, Drexel College of Computer and Informatics, 2022 
 
 * Full Stack Developer, Gentlist, 2020-2021
 
