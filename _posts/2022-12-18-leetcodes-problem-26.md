@@ -8,7 +8,7 @@ tags:
   - leetcodes
 toc: true
 toc_sticky: true
-last_modified_at: 2022-01-26T16:00:00Z
+last_modified_at: 2022-12-18T16:00:00Z
 ---
 
 # L716 Max Stack problem 
