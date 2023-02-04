@@ -1,6 +1,6 @@
 ---
 title: "Sorting-Visualizer"
-excerpt: "Python Application for downloading youtube video as mp3, mp4 file."
+excerpt: "Sorting Visualizer built with React and Typescript"
 header:
 #   image: /assets/images/youtube.png
   teaser: assets/images/1a8cc008-30d4-4d53-9909-a86b036d476d.png
