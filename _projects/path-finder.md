@@ -3,7 +3,7 @@ title: "Path Finder Web App"
 excerpt: "path finder with NextJS"
 header:
 #   image: /assets/images/youtube.png
-  teaser: https://github.com/jinlee487/jinlee487.github.io/assets/46912607/d7d32a45-6b04-4d31-ba3d-7720b665ed65
+  teaser: assets/images/pathfinder.png
 sidebar:
   - title: "Role"
     image: assets/images/software-developer-copy.jpg
@@ -13,7 +13,7 @@ sidebar:
     text: "Designed and Developed"
 gallery:
   - url: https://pathfinder-visualizer-git-staging-jinlee487.vercel.app/
-    image_path: https://github.com/jinlee487/jinlee487.github.io/assets/46912607/d7d32a45-6b04-4d31-ba3d-7720b665ed65
+    image_path: assets/images/pathfinder.png
     alt: "placeholder image 1"
 ---
 
