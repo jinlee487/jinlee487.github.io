@@ -10,24 +10,9 @@ author_profile: true
 
 <br/><br/>
 
-Education
-======
-
-* M.S. in Computer Science, Drexel University, 2021 - current
-
-* Bootcamp Student, AIFFEL X SOCAR, 2021
-    - AI ML developer course 
-
-* Bootcamp Student, Green Computer Academy, 2020
-    - Java Web programming Smart Content 6 month total 940 hours Bootcamp course. Java, JavaScript, SQL, Spring Framework
-
-* B.S. in Economics, University of Wisconsin-Madison, 2018
-
-
-
 Work experience
 ======
-* Full-Stack Software Engineer, Lula, 2022
+* Full-Stack Software Engineer, Lula, 2022 - Current
 
     - Improved web and mobile client-side delivery platform application built from react ionic library which services 400+ merchants 
 
@@ -57,6 +42,27 @@ Work experience
 * Data Analyst Intern, Forward Health Group, Inc, 2019
 
 
+Education
+======
+
+* M.S. in Computer Science, Drexel University, 2021 - 2023
+    - GPA 3.63/4.00
+
+* Bootcamp Student, AIFFEL X SOCAR, 2021
+    - AI ML developer course 
+
+* Bootcamp Student, Green Computer Academy, 2020
+    - Java Web programming Smart Content 6 month total 940 hours Bootcamp course. Java, JavaScript, SQL, Spring Framework
+
+* B.S. in Economics, University of Wisconsin-Madison, 2018
+
+
+Awards
+======
+
+* Philly Codefest - Applied AI Challenge 2, March 2023
+
+* Philly Codefest – Best Diversity, Equity & Inclusion (DEI) Hack, April 2022
 
 Projects
 ======
